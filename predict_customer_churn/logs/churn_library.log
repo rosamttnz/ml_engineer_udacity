@@ -1,0 +1,33 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Datafarame column number is             10127 and row number is 22: SUCCESS
+root - INFO - Testing perform_eda:Images are stored correctry :SUCCESS
+root - INFO - the {churn_count} Categorical column are transformed:SUCCESS
+root - INFO - The input data was correctly split into training data and test data.:SUCCESS
+root - WARNING - Models and image is not saved correctly  :FAIL
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Datafarame column number is             10127 and row number is 22: SUCCESS
+root - INFO - Testing perform_eda:Images are stored correctry :SUCCESS
+root - INFO - the {churn_count} Categorical column are transformed:SUCCESS
+root - INFO - The input data was correctly split into training data and test data.:SUCCESS
+root - INFO - Models are saved correctly in target folder:SUCSESS
+root - WARNING - Models and image is not saved correctly  :FAIL
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Datafarame column number is             10127 and row number is 22: SUCCESS
+root - INFO - Testing perform_eda:Images are stored correctry :SUCCESS
+root - INFO - the {churn_count} Categorical column are transformed:SUCCESS
+root - INFO - The input data was correctly split into training data and test data.:SUCCESS
+root - INFO - Models are saved correctly in target folder:SUCSESS
+root - WARNING - Models and image is not saved correctly  :FAIL
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Datafarame column number is             10127 and row number is 22: SUCCESS
+root - INFO - Testing perform_eda:Images are stored correctry :SUCCESS
+root - INFO - the {churn_count} Categorical column are transformed:SUCCESS
+root - INFO - The input data was correctly split into training data and test data.:SUCCESS
+root - INFO - Models are saved correctly in target folder:SUCSESS
+root - WARNING - Models and image is not saved correctly  :FAIL
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Datafarame column number is             10127 and row number is 22: SUCCESS
+root - INFO - Testing perform_eda:Images are stored correctry :SUCCESS
+root - INFO - the {churn_count} Categorical column are transformed:SUCCESS
+root - INFO - The input data was correctly split into training data and test data.:SUCCESS
+root - INFO - Models are saved correctly in target folder:SUCSESS

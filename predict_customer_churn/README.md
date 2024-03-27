@@ -7,38 +7,34 @@ This is the 1st project of the ML DevOps nanodegree. In this project, I will imp
 
 ## Project Structure
 predict_customer_churn/
-|   |-- __pycache__/
-|   |   |-- churn_library.cpython-39.pyc
-|   |-- data/
-|   |   |-- bank_data.csv
-|   |-- images/
-|   |   |-- .ipynb_checkpoints/
-|   |   |-- eda/
-|   |   |   |-- churn_distribution.png
-|   |   |   |-- customer_age_distribution.png
-|   |   |   |-- customer_age_hist.png
-|   |   |   |-- customer_gender_hist.png
-|   |   |   |-- heatmap.png
-|   |   |   |-- marital_status_distribution.png
-|   |   |   |-- total_transaction_distribution.png
-|   |   |-- results/
-|   |   |   |-- feature_importances.png
-|   |   |   |-- logistic_results.png
-|   |   |   |-- lrc_roc_curve_result.png
-|   |   |   |-- rf_results.png
-|   |   |   |-- rfc_roc_curve_result.png
-|   |-- logs/
-|   |   |-- churn_library.log
-|   |-- models/
-|   |   |-- logistic_model.pkl
-|   |   |-- rfc_model.pkl
-|   |-- Guide.ipynb
-|   |-- README.md
-|   |-- archive.tar.gz
-|   |-- churn_library.py
-|   |-- churn_notebook.ipynb
-|   |-- churn_script_logging_and_tests.py
-|   |-- requirements_py3.9.txt
+├── data/
+│ └── bank_data.csv
+├── images/
+│ ├── eda/
+│ │ ├── churn_distribution.png
+│ │ ├── customer_age_distribution.png
+│ │ ├── customer_age_hist.png
+│ │ ├── customer_gender_hist.png
+│ │ ├── heatmap.png
+│ │ ├── marital_status_distribution.png
+│ │ └── total_transaction_distribution.png
+│ └── results/
+│ ├── feature_importances.png
+│ ├── logistic_results.png
+│ ├── lrc_roc_curve_result.png
+│ ├── rf_results.png
+│ └── rfc_roc_curve_result.png
+├── logs/
+│ └── churn_library.log
+├── models/
+│ ├── logistic_model.pkl
+│ └── rfc_model.pkl
+├── Guide.ipynb
+├── README.md
+├── churn_library.py
+├── churn_notebook.ipynb
+├── churn_script_logging_and_tests.py
+└── requirements_py3.9.txt
 
 ## Running Files
 To run this project, ensure you have Python 3.8+ installed on your system. Follow these steps:
